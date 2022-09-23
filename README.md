@@ -211,10 +211,8 @@
   
   ## Github Stats  
   <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=jose-cleiton&show_icons=true&count_private=true&hide_border=true&theme=radical" align="center" /></div> 
-
-   <div align="center"><img src="https://c.tenor.com/bkJxYJ_AvxcAAAAC/jesus-dancing.gif" align="center" /></div> 
-
-  https://www.google.com/url?sa=i&url=https%3A%2F%2Fpt.phoneky.com%2Fgif-animations%2F%3Fid%3Ds3s204775&psig=AOvVaw1cCDSORN_WAFeB7BmB0Fs9&ust=1663984185952000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCJCSkKXmqfoCFQAAAAAdAAAAABAI 
+  
+   
   
   <br/>  
 
