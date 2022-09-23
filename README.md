@@ -1,7 +1,7 @@
-
+<link rel="stylesheet" type="text/css" href="./style.css">
 <div>
 <div>
-  <h1 align="center">Hi 👋, I'm José Cleiton</h1>
+  <h1 align="center" class="test">Hi 👋, I'm José Cleiton</h1>
   <h3 align="center">Back-end Developer and Student at Trybe(@tryber)</h3>
 </div>
 
