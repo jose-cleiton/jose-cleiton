@@ -194,12 +194,13 @@
   <br/>  
   
   
-  ## Connect with me  
+  ## Connect with me
+    
   <div align="center">
-  <a href="https://github.com/rishavanand" target="_blank">
+  <a href="https://github.com/jose-cleiton" target="_blank">
   <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
   </a>
-  <a href="https://linkedin.com/in/rishavanand" target="_blank">
+  <a href="https://linkedin.com/in/jcleitonsantos" target="_blank">
   <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
   </a>
   </div>  
@@ -212,5 +213,8 @@
   <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=jose-cleiton&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
   
   <br/>  
+
+  [![José Cleiton's GitHub stats](https://github-readme-stats.vercel.app/api/wakatime?username=jose-cleiton&theme=radical)](https://github.com/jose-cleiton/github-readme-stats)
+
   
   
