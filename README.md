@@ -3,11 +3,6 @@
 
 <div>
 
-<style>
-  h1.test{
-  background-color: #f5f5f5;
-  color: blue;
-</style>
 
 
 <div>
