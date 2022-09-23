@@ -1,12 +1,12 @@
-<link rel="stylesheet" type="text/css" href="./style.css">
-
-
-<div>
 
 
 
 <div>
-  <h1 style="background-color:#f5f5" align="center" class="test">Hi 👋, I'm José Cleiton</h1>
+
+
+
+<div>
+  <h1  align="center" class="test">Hi 👋, I'm José Cleiton</h1>
   <h3 align="center">Back-end Developer and Student at Trybe(@tryber)</h3>
 </div>
 
@@ -84,28 +84,11 @@
 </class=>
 
 
-<div>
 
-  <div>
-    <img align="left" src="https://github-r eadme-stats.vercel.app/api/top-langs?username=jose-cleiton&show_icons=true&theme=radical&locale=en&layout=compact" alt="jose-cleiton" />   
-  </div>
-  
-  <div>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jose-cleiton&show_icons=true&theme=radical&locale=en" alt="jose-cleiton" />
-  </div>
-  
-  <div>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jose-cleiton&theme=radical" alt="jose-cleiton" />
-  </div>
+ 
 
 </div>
 
-
-
-
-   
-  
- 
-  
   
   ## My Skill Set  
   <table><tr><td valign="top" width="33%">
@@ -213,9 +196,15 @@
   
   <br/>  
   
-  
+<section>
   ## Github Stats  
-  <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=jose-cleiton&show_icons=true&count_private=true&hide_border=true&theme=radical" align="center" /></div> 
+  <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=jose-cleiton&show_icons=true&count_private=true&hide_border=true&theme=radical" align="center" />
   
+  </div> 
+</br>
+   <div align="center">
+    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=jose-cleiton&theme=radical" alt="jose-cleiton" />
+  </div>
+</section>
    
   
