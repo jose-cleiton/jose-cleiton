@@ -6,7 +6,7 @@ h1.test{
 }
 
 .technologies-container {
-  background-color: #f5f5f5;
+  background-color: red;
   padding: 20px;
   height: max-content;
   /* width: max-content; */
