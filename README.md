@@ -1,11 +1,15 @@
 <link rel="stylesheet" type="text/css" href="./style.css">
 
+
+<div>
+
 <style>
   h1.test{
   background-color: #f5f5f5;
   color: blue;
 </style>
-<div>
+
+
 <div>
   <h1 align="center" class="test">Hi 👋, I'm José Cleiton</h1>
   <h3 align="center">Back-end Developer and Student at Trybe(@tryber)</h3>
