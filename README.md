@@ -90,7 +90,7 @@
   
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jose-cleiton&show_icons=true&theme=radical&locale=en" alt="jose-cleiton" /></p>
   
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jose-cleiton&" alt="jose-cleiton" /></p>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jose-cleiton&theme=radical" alt="jose-cleiton" /></p>
 
 </div>
 
