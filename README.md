@@ -24,7 +24,9 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-
+  <br/>  
+ <img src =https://raw.githubusercontent.com/amandewatnitrr/amandewatnitrr/main/header_.png> 
+ </br>
  
 
 </div>
@@ -86,9 +88,7 @@
   
   </td></tr></table>  
   
-  <br/>  
- <img src =https://raw.githubusercontent.com/amandewatnitrr/amandewatnitrr/main/header_.png> 
-  
+ 
 
     
   
