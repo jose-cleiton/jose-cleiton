@@ -17,8 +17,10 @@
   <p align="left">
        <a href="https://linkedin.com/in/jcleitonsantos" target="blank">
        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jcleitonsantos" height="30" width="50" /></a>
+<a href="mailto:cleitons835@gmail.com"><img align="center" src="https://img.icons8.com/color/96/000000/gmail.png" alt="email" height="30" width="50" /></a>
   </p>
 </div>
+
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -85,7 +87,7 @@
   </td></tr></table>  
   
   <br/>  
-  
+ <img src =https://raw.githubusercontent.com/amandewatnitrr/amandewatnitrr/main/header_.png> 
   
 
     
@@ -111,9 +113,25 @@
    <div align="center">
     <img  src="https://github-readme-streak-stats.herokuapp.com/?user=jose-cleiton&theme=radical" alt="jose-cleiton" />
   </div>
+</br>
+
+<div align="center">
+ <img  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jose-cleiton&=dracula&theme=radical" />
+    </span></a>
+
+</div>  
 </section>
    
 
 
 
 ###
+
+
+
+
+
+
+
+
+
