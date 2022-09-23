@@ -16,8 +16,8 @@
 <h3 align="left">Languages and Tools:</h3>
 
 
-<div  align="center">
-    <p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> 
+<div>
+    <p align="center"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="50" height="50"/> </a> 
     <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="50" height="50"/> </a> 
