@@ -1,4 +1,10 @@
 <link rel="stylesheet" type="text/css" href="./style.css">
+
+<style>
+  h1.test{
+  background-color: #f5f5f5;
+  color: blue;
+</style>
 <div>
 <div>
   <h1 align="center" class="test">Hi 👋, I'm José Cleiton</h1>
