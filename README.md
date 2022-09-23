@@ -27,8 +27,7 @@
 
 </div>
 
-  
-  ## My Skill Set  
+  # 💻 # My Skill Set  
   <table><tr><td valign="top" width="15%">
   
   
@@ -118,7 +117,7 @@
   <br/>  
   
 <section>
-  ## Github Stats  
+# 📊 GitHub Stats:
 
 <div align="center">
 
@@ -138,4 +137,6 @@
   </div>
 </section>
    
-  
+
+
+
