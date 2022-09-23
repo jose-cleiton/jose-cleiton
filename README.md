@@ -87,7 +87,7 @@
 <div>
 
   <div>
-    <img align="left" src="https://github-r eadme-stats.vercel.app/api/top-langs?username=jose-cleiton&show_icons=true&theme=radical&locale=en&  layout=compact" alt="jose-cleiton" />   
+    <img align="left" src="https://github-r eadme-stats.vercel.app/api/top-langs?username=jose-cleiton&show_icons=true&theme=radical&locale=en&layout=compact" alt="jose-cleiton" />   
   </div>
   
   <div>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jose-cleiton&show_icons=true&theme=radical&locale=en" alt="jose-cleiton" />
