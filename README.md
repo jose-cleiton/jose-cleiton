@@ -8,7 +8,7 @@
 <div>
   <h1  align="center">Hi 👋, I'm José Cleiton</h1>
 
-  <h3 align="center">Back-end Developer and Student at Trybe(@tryber)</h3>
+  <h3 align="center">Back-end Developer</h3>
 </div>
 
 <h3 align="left">Connect with me:</h3>
