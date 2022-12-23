@@ -8,7 +8,7 @@
 <div>
   <h1  align="center">Hi 👋, I'm José Cleiton</h1>
   <p>
-  "Desenvolvedor Back-End com experiência em Docker, JavaScript, Node, TypeScript, MySQL, Sequelize, MongoDb, Mongoose, GIT, GITHUB e REACT. Conhecimentos avançados em Python, PHP e C++. Apaixonado por tecnologia e sempre buscando novos desafios. Comunicação clara e solução de problemas são pontos fortes para garantir o sucesso de um projeto."
+  "Desenvolvedor Back-End com experiência em Docker, JavaScript, Node, TypeScript, MySQL, Sequelize, MongoDb, Mongoose, GIT, GITHUB e REACT. Conhecimentos avançados em Python, PHP e C# e Go. Apaixonado por tecnologia e sempre buscando novos desafios. Comunicação clara e solução de problemas são pontos fortes para garantir o sucesso de um projeto."
   </p>
 
   <h3 align="center">Back-end Developer</h3>
