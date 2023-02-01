@@ -4,7 +4,7 @@
  "Back-End Developer with experience in Docker, JavaScript, Node, TypeScript, MySQL, Sequelize, MongoDb, Mongoose, GIT, GITHUB, REACT, Python, PHP, C# and Go. Passionate about technology and always seeking new challenges. Clear communication and problem solving are strong points to ensure project success."
   </p>
 
-  <h3 align="center">Back-end Developer</h3>
+  <h3 align="center">Full Stack Developer</h3>
 </div>
 
 <h3 align="left">Connect with me:</h3>
