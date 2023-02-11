@@ -5,7 +5,7 @@
  </p>
 
 <ul>
-  <li>Front End: HTML | CSS | JavaScript | Typescript | React || Jest | Redux</li>
+  <li>Front End: HTML | CSS | JavaScript | Typescript | React | Redux</li>
   <li>Back End: NodeJs | Express | Sequelize | Mocha e Chai | MySQL | MongoDB | Mongoose | SOLID | POO | Go | Java | Php</li>
   <li>Outros: Docker | Git | CI/CD | Eslint | NPM | Python</li>
 </ul>
