@@ -10,6 +10,9 @@
   <li>Outros: Docker | Git | CI/CD | Eslint | NPM | Python</li>
 </ul>
   
+  <p align="center">
+Além disso, adoro praticar esportes, sou faixa preta de karatê e sou autodidata em leitura de partitura e toco violão.
+</p>
 
   <h3 align="center">Full Stack Developer</h3>
 </div>
