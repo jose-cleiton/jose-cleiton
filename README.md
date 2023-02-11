@@ -130,32 +130,29 @@
   <br/>  
   
 <section>
-# 📊 GitHub Stats:
-
-<div align="center">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jose-cleiton&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
-
-
-
-
-  <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=jose-cleiton&show_icons=true&count_private=true&hide_border=true&theme=radical" width="400" height="200" align="center" />
-  
-  </div> 
-</br>
-   <div align="center">
-    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=jose-cleiton&theme=radical" width="400" height="200" alt="jose-cleiton" />
-  </div>
-</br>
-
-<div align="center">
- <img  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jose-cleiton&=dracula&theme=radical" width="400" height="200" />
-    </span></a>
-
-</div>  
+  <h2>📊 GitHub Stats:</h2>
+ <table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jose-cleiton&layout=compact&theme=radical" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=jose-cleiton&show_icons=true&count_private=true&hide_border=true&theme=radical" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=jose-cleiton&theme=radical" />
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jose-cleiton&=dracula&theme=radical" />
+    </td>
+  </tr>
+</table>
+ 
+ 
 </section>
+
 
    
 
