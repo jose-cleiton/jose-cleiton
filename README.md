@@ -6,7 +6,7 @@
 
 <ul>
   <li>Front End: HTML | CSS | JavaScript | Typescript | React || Jest | Redux</li>
-  <li>Back End: NodeJs | Express | Prisma | Sequelize | Mocha e Chai | MySQL | MongoDB | Mongoose | SOLID | POO | Go | Java | Php</li>
+  <li>Back End: NodeJs | Express | Sequelize | Mocha e Chai | MySQL | MongoDB | Mongoose | SOLID | POO | Go | Java | Php</li>
   <li>Outros: Docker | Git | CI/CD | Eslint | NPM | Python</li>
 </ul>
   
@@ -141,21 +141,22 @@
 
 
 
-  <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=jose-cleiton&show_icons=true&count_private=true&hide_border=true&theme=radical" align="center" />
+  <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=jose-cleiton&show_icons=true&count_private=true&hide_border=true&theme=radical" width="400" height="200" align="center" />
   
   </div> 
 </br>
    <div align="center">
-    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=jose-cleiton&theme=radical" alt="jose-cleiton" />
+    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=jose-cleiton&theme=radical" width="400" height="200" alt="jose-cleiton" />
   </div>
 </br>
 
 <div align="center">
- <img  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jose-cleiton&=dracula&theme=radical" />
+ <img  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jose-cleiton&=dracula&theme=radical" width="400" height="200" />
     </span></a>
 
 </div>  
 </section>
+
    
 
 
