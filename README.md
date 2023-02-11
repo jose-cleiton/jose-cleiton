@@ -74,36 +74,17 @@ Além disso, adoro praticar esportes, sou faixa preta de karatê e sou autodidat
 
 </br>
 </br>
-<div align="centr">
 
-<h2>Other Tools</h2>
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="24" width="31" alt="vscode logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="24" width="31" alt="jupyter logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="24" width="31" alt="git logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="24" width="31" alt="figma logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="24" width="31" alt="linux logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="24" width="31" alt="slack logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="24" width="31" alt="windows8 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="24" width="31" alt="trello logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="24" width="31" alt="google logo"  />
+###
+
+
+###
+###
+  
 </div>
-
-###
-
-
-###
-###
-  
-  
-     
  
-
-</div>
-
-  
-  
-  </td><td valign="top" width="33%">
+</td><td valign="top" width="33%">
 
 
 <div align="center">
@@ -126,7 +107,6 @@ Além disso, adoro praticar esportes, sou faixa preta de karatê e sou autodidat
   
   </td></tr></table>  
   
- 
 
     
   
