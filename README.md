@@ -1,8 +1,15 @@
 
   <h1  align="center">Hi 👋, I'm José Cleiton</h1>
   <p>
- "Back-End Developer with experience in Docker, JavaScript, Node, TypeScript, MySQL, Sequelize, MongoDb, Mongoose, GIT, GITHUB, REACT, Python, PHP, C# and Go. Passionate about technology and always seeking new challenges. Clear communication and problem solving are strong points to ensure project success."
-  </p>
+ "Sou um desenvolvedor apaixonado por tecnologia, com habilidades diversas em Docker | HTML | CSS | TDD |Javascript | Node | TypeScript | Mysql | Sequelize | MongoDb | Mongoose | GIT | GITHUB | REACT | Python | PHP | C# | Go | Java entre outros. Possuo habilidades comportamentais sólidas e uma paixão por comunicação, e sou altamente motivado a trabalhar em equipe para alcançar resultados excepcionais.
+ </p>
+
+<ul>
+  <li>Front End: HTML | CSS | JavaScript | Typescript | React || Jest | Redux</li>
+  <li>Back End: NodeJs | Express | Prisma | Sequelize | Mocha e Chai | MySQL | MongoDB | Mongoose | SOLID | POO | Go | Java | Php</li>
+  <li>Outros: Docker | Git | CI/CD | Eslint | NPM | Python</li>
+</ul>
+  
 
   <h3 align="center">Full Stack Developer</h3>
 </div>
@@ -32,17 +39,13 @@
 
  <div align="center">
  <h2>Programming Languages</h2>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" width="52" alt="php logo"  />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="52" alt="typescript logo"  />
-
-
-
-
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="24" width="31.2" alt="javascript logo"  />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="24" width="31.2" alt="python logo"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="24" width="31.2" alt="php logo"  />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="30" height="30"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="30"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="30" height="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="24" width="31.2" alt="typescript logo"  />
 </div>
   
   
