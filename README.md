@@ -1,5 +1,5 @@
 
-  <h1  align="center">Hi 👋, I'm José Cleiton</h1>
+  <h1  align="center">Oi 👋, eu sou José Cleiton</h1>
   <p>
  "Sou um desenvolvedor apaixonado por tecnologia, com habilidades diversas em Docker | HTML | CSS | TDD |Javascript | Node | TypeScript | Mysql | Sequelize | MongoDb | Mongoose | GIT | GITHUB | REACT | Python | PHP | C# | Go | Java entre outros. Possuo habilidades comportamentais sólidas e uma paixão por comunicação, e sou altamente motivado a trabalhar em equipe para alcançar resultados excepcionais.
  </p>
@@ -131,21 +131,21 @@
   
 <section>
   <h2>📊 GitHub Stats:</h2>
- <table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jose-cleiton&layout=compact&theme=radical" />
+ <table style="border-collapse: collapse; border: 0;">
+   <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jose-cleiton&layout=compact&theme=radical" alt="Top Langs"/>
     </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=jose-cleiton&show_icons=true&count_private=true&hide_border=true&theme=radical" />
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=jose-cleiton&show_icons=true&count_private=true&hide_border=true&theme=radical" alt="GitHub Stats"/>
     </td>
   </tr>
   <tr>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=jose-cleiton&theme=radical" />
+    <td align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=jose-cleiton&theme=radical" alt="Readme Streak Stats"/>
     </td>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jose-cleiton&=dracula&theme=radical" />
+    <td align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jose-cleiton&=dracula&theme=radical" alt="Profile Summary Cards"/>
     </td>
   </tr>
 </table>
